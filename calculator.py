@@ -34,5 +34,10 @@ for i in range(0, n):
     c = int(input("Enter the number: "))
     a = a + (c,)
 
+<<<<<<< HEAD
 #if n == "s":
 #    add
+=======
+if n == "s":
+    add
+>>>>>>> e75a614 (Initial commit)
